@@ -10,7 +10,7 @@ class PriorityQueue extends SplPriorityQueue
 
 class Graph
 {
-  private $verticies;
+	private $verticies;
 
 	function __construct()
 	{
